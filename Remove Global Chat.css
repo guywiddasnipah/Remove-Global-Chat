@@ -1,0 +1,10 @@
+ /* Remove Global Chat */
+.chat-cont[data-v-679cb6a8] {
+    display: none!important;
+}
+.preview[data-v-679cb6a8] {
+    width: 30rem;
+}
+.image[data-v-679cb6a8] {
+    width: 30rem;
+}

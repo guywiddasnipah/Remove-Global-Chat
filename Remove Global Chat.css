@@ -1,8 +1,8 @@
  /* Remove Global Chat */
-.chat-cont[data-v-b8b1ff7e] {
+.chat-cont{
     display: none!important;
 }
-.preview[data-v-b8b1ff7e] {
+div.preview.text-2 {
     width: 30rem;
 }
 .image[data-v-b8b1ff7e] {

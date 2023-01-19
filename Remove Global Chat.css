@@ -2,9 +2,9 @@
 .chat-cont{
     display: none!important;
 }
-div.preview.text-2 {
+.preview.text-2 {
     width: 30rem;
 }
-.image[data-v-b8b1ff7e] {
+#view .content .preview.text-2 img {
     width: 30rem;
 }
